@@ -1,3 +1,15 @@
+//Write a program that prints numbers from 0 to 4 inclusive. Each number must be on a new line.
+//
+//        Use the provided template for your solution.
+//
+//        Sample Output
+//
+//        0
+//        1
+//        2
+//        3
+//        4
+
 class Main {
     public static void main(String[] args) {
         System.out.println('0');
