@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -21,10 +22,13 @@
             <option value="$PROJECT_DIR$/Problems/Hello, Java" />
             <option value="$PROJECT_DIR$/Problems/Hello, Java platform" />
             <option value="$PROJECT_DIR$/Problems/Hello_" />
+            <option value="$PROJECT_DIR$/Problems/Hiring a chef" />
             <option value="$PROJECT_DIR$/Problems/Incorrect comments" />
             <option value="$PROJECT_DIR$/Problems/Invalid declaration of variables" />
             <option value="$PROJECT_DIR$/Problems/Javadoc comment" />
+            <option value="$PROJECT_DIR$/Problems/Print strings in the reverse order" />
             <option value="$PROJECT_DIR$/Problems/Printing a magic letter" />
+            <option value="$PROJECT_DIR$/Problems/Printing each word in a new line" />
             <option value="$PROJECT_DIR$/Problems/Printing only the longest line" />
             <option value="$PROJECT_DIR$/Problems/Printing strings in the same order" />
             <option value="$PROJECT_DIR$/Problems/The Hello World program" />

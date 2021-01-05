@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-02T14:10:33" hostname="eliud-wanja" time="0.102">
+<testsuite name="Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-04T07:54:12" hostname="eliud-wanja" time="0.113">
   <properties/>
-  <testcase name="start" classname="Tests" time="0.102"/>
+  <testcase name="start" classname="Tests" time="0.113"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
-Hello! My name is Eliud Wanja.
+Hello! My name is Aid.
+I was created in 2018.
+Please, remind me your name.
+> John
+What a great name you have,John!
+?[1;31m
+Start test 2?[0m
+Hello! My name is Aid.
+I was created in 2018.
+Please, remind me your name.
+> Nick
+What a great name you have,Nick!
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
