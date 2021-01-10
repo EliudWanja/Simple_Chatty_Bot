@@ -12,6 +12,11 @@ class Main {
         boolean descOrder = h1 >= h2 && h2 >= h3;
         boolean correct = ascOrder || descOrder;
         System.out.println(correct);
+//        if(h1 > h2){
+//            System.out.println(h1);
+//        } else {
+//            System.out.println(h2);
+//        }
     }
 }
 
