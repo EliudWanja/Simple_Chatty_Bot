@@ -11,12 +11,26 @@ class Main {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
+
         // put your code here
         int a = scanner.nextInt();
         int b = scanner.nextInt();
         int c = scanner.nextInt();
         int d = scanner.nextInt();
         System.out.println(--a + " " + --b + " " + --c + " " + --d);
+
+//        long dollars = scanner.nextLong(); // your budget
+//
+//        if (dollars < 1000) {
+//            System.out.println("Buy a laptop");
+//        } else if (dollars < 2000) {
+//            System.out.println("Buy a personal computer");
+//        } else if (dollars < 100_000) {
+//            System.out.println("Buy a server");
+//        } else {
+//            System.out.println("Buy a data center or a quantum computer");
+//        }
+
 
 //        System.out.print(--num1 + " ");
 //        System.out.print(--num2 + " ");
