@@ -57,12 +57,14 @@
             <option value="$PROJECT_DIR$/Problems/Printing each word in a new line" />
             <option value="$PROJECT_DIR$/Problems/Printing only the longest line" />
             <option value="$PROJECT_DIR$/Problems/Printing strings in the same order" />
+            <option value="$PROJECT_DIR$/Problems/Profit" />
             <option value="$PROJECT_DIR$/Problems/Queens" />
             <option value="$PROJECT_DIR$/Problems/Reading integer numbers" />
             <option value="$PROJECT_DIR$/Problems/Reversing" />
             <option value="$PROJECT_DIR$/Problems/Reversing input numbers" />
             <option value="$PROJECT_DIR$/Problems/Size of parts" />
             <option value="$PROJECT_DIR$/Problems/Snail" />
+            <option value="$PROJECT_DIR$/Problems/Squares of natural numbers" />
             <option value="$PROJECT_DIR$/Problems/Squirrels and nuts" />
             <option value="$PROJECT_DIR$/Problems/Symmetrical number" />
             <option value="$PROJECT_DIR$/Problems/Tens digit" />
@@ -74,6 +76,7 @@
             <option value="$PROJECT_DIR$/Problems/The product of numbers from a to b" />
             <option value="$PROJECT_DIR$/Problems/The result of a Tic-Tac-Toe game" />
             <option value="$PROJECT_DIR$/Problems/The roots of an equation" />
+            <option value="$PROJECT_DIR$/Problems/The smallest value" />
             <option value="$PROJECT_DIR$/Problems/The sum of digits" />
             <option value="$PROJECT_DIR$/Problems/The sum of integers from a to b" />
             <option value="$PROJECT_DIR$/Problems/Three numbers" />
