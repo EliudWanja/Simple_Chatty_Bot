@@ -1,3 +1,8 @@
+//Read an integer number N from the input and print all the squares of natural numbers:
+//    less than or equal to N,
+//    in ascending order.
+//    Sample Input:
+//    50
 
 import java.util.*;
 class Main {
