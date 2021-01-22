@@ -11,12 +11,14 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/Area of parallelogram" />
             <option value="$PROJECT_DIR$/Problems/Arithmetic average" />
             <option value="$PROJECT_DIR$/Problems/Arithmetic expression" />
             <option value="$PROJECT_DIR$/Problems/Assignments" />
             <option value="$PROJECT_DIR$/Problems/Assignments (1)" />
             <option value="$PROJECT_DIR$/Problems/Boys in a sport class" />
             <option value="$PROJECT_DIR$/Problems/Bus tour" />
+            <option value="$PROJECT_DIR$/Problems/Call me awesome" />
             <option value="$PROJECT_DIR$/Problems/Cats are robots" />
             <option value="$PROJECT_DIR$/Problems/Check a number is positive" />
             <option value="$PROJECT_DIR$/Problems/Check the given numbers are different" />
