@@ -83,3 +83,8 @@ content:
 - The integer barrier
 - Call me awesome
 - Area of parallelogram
+- Comparing strings ignoring whitespaces
+- Check prefix ignoring the case
+- Check burgs
+- Extracting a substring
+- Replacing 'a' with 'b'
