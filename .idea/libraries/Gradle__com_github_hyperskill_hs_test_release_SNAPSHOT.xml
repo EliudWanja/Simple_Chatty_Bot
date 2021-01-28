@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.hyperskill:hs-test:release-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hyperskill/hs-test/release-SNAPSHOT/9a1ba13922454325ccc869cd8f2a9ce77bbf41b4/hs-test-release-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hyperskill/hs-test/release-SNAPSHOT/16d4a938b0c75936c208b7a5f27bf6b9e9614713/hs-test-release-SNAPSHOT.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hyperskill/hs-test/release-SNAPSHOT/8a6804b904ef990729f518c6fd6c5899986285f9/hs-test-release-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hyperskill/hs-test/release-SNAPSHOT/6b0334bf9f1009b58d40cf9ee2abc0478a008c32/hs-test-release-SNAPSHOT-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
