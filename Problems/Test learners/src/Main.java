@@ -18,3 +18,44 @@ class Main {
         }
     }
 }
+
+//class Main {
+
+//    public static void main(String[] args) {
+////        double max = 0;
+////        max = getX();
+////        System.out.println(max);
+//    }
+
+//    public double getX(int a, int b, int c) {
+//        double x;
+//        double x2;
+//        double x1;
+//        x1 = (-b + (Math.sqrt(Math.pow(b, 2) - (4 * a * c)))/(2*a));
+//        x2 = (-b - (Math.sqrt(Math.pow(b, 2) - (4 * a * c)))/(2*a));
+//
+////        X = 0;
+//        if (x1 >= x2) {
+//            x = x1;
+//        } else {
+//            x = x2;
+//        }
+//        return x;
+//    }
+//}
+
+
+//public class ProfNandaa {
+//
+//    public double getX(int a, int b, int c) {
+//        double x;
+//        double x2;
+//        double x1;
+//        final double v = (Math.sqrt(Math.pow(b, 2) - (4 * a * c))) / (2 * a);
+//        x1 = (-b + v);
+//        x2 = (-b - v);
+//
+//        x = Math.max(x1, x2);
+//        return x;
+//    }
+//}
